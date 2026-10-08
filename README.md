@@ -111,4 +111,4 @@ as the code lands. The full spec that drives development is in
 
 ## License
 
-MIT
+Released under the [MIT License](./LICENSE). Copyright (c) 2026 Yury Vashchylau.
