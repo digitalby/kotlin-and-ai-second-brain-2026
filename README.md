@@ -1,4 +1,4 @@
-# Second Brain
+# Build a second brain with AI (and a bit of Kotlin) at home
 
 A local-first, privacy-respecting notetaker you own outright. Capture a thought in one
 tap, store it as a plain Markdown file on your own disk, and surface it later with
